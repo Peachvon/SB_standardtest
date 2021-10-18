@@ -17,7 +17,6 @@ class CodeJson {
     required this.data900,
     required this.data1500,
     required this.data2500,
-    // we
   });
 
   String group;
